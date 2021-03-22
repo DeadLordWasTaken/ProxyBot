@@ -14,4 +14,12 @@ pip install discord
 2. Replace "token-here" with your bots token.
 3. Done.
 
-Repl: [![Run on Repl.it](https://repl.it/badge/github/Lord-Silence/ProxyBot)](https://repl.it/github/Lord-Silence/ProxyBot)
+
+## Hosting
+[![Run on Repl.it](https://repl.it/badge/github/Lord-Silence/ProxyBot)](https://repl.it/github/Lord-Silence/ProxyBot)
+
+**Repl.it/Glitch Pinger**
+https://discord.com/api/oauth2/authorize?client_id=764524832963428362&permissions=84992&scope=bot
+
+
+**Anything that happens to your glitch project I am not responsible for**
