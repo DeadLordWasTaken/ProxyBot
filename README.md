@@ -13,3 +13,5 @@ pip install discord
 1. Create a bot in discord's developer portal https://discord.com/developers.
 2. Replace "token-here" with your bots token.
 3. Done.
+
+Repl: [![Run on Repl.it](https://repl.it/badge/github/Lord-Silence/ProxyBot)](https://repl.it/github/Lord-Silence/ProxyBot)
