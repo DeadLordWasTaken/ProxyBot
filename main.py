@@ -2,7 +2,7 @@ import requests
 from discord import Embed, File
 from discord.ext import commands
 
-token = "ODE3ODYwNzAwOTU2NjU1NjI4.YEPqIg.XQJstke8a_oxU_zcGl3stzWSd8c"
+token = "780555835629502465_3Eskݟ&ݗ"
 
 client = commands.Bot(command_prefix='+')
 client.remove_command('help')
